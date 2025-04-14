@@ -25,3 +25,8 @@ streamlit run app/main.py
 ## Model
 
 - Linear Regression trained on real estate dataset.
+## 🔗 Streamlit App Link
+https://your-app-name.streamlit.app/
+
+## 📦 GitHub Repo
+https://github.com/microsdemiya/real_estate_streamlit
